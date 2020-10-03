@@ -1,0 +1,10 @@
+C:\Users\Edusuite\source\repos\ConsoleApplication\CollectionApplication\bin\Debug\CollectionApplication.exe.config
+C:\Users\Edusuite\source\repos\ConsoleApplication\CollectionApplication\bin\Debug\CollectionApplication.exe
+C:\Users\Edusuite\source\repos\ConsoleApplication\CollectionApplication\bin\Debug\CollectionApplication.pdb
+C:\Users\Edusuite\source\repos\ConsoleApplication\CollectionApplication\obj\Debug\CollectionApplication.csprojAssemblyReference.cache
+C:\Users\Edusuite\source\repos\ConsoleApplication\CollectionApplication\obj\Debug\CollectionApplication.Form1.resources
+C:\Users\Edusuite\source\repos\ConsoleApplication\CollectionApplication\obj\Debug\CollectionApplication.Properties.Resources.resources
+C:\Users\Edusuite\source\repos\ConsoleApplication\CollectionApplication\obj\Debug\CollectionApplication.csproj.GenerateResource.cache
+C:\Users\Edusuite\source\repos\ConsoleApplication\CollectionApplication\obj\Debug\CollectionApplication.csproj.CoreCompileInputs.cache
+C:\Users\Edusuite\source\repos\ConsoleApplication\CollectionApplication\obj\Debug\CollectionApplication.exe
+C:\Users\Edusuite\source\repos\ConsoleApplication\CollectionApplication\obj\Debug\CollectionApplication.pdb
